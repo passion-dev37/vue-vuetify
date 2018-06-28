@@ -1,4 +1,4 @@
-# portfolio-app
+# Vue-Vuetify Portfolio APP
 
 ## Project setup
 ```
